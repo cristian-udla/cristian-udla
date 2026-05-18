@@ -1,5 +1,5 @@
-# Criaitan  Garrido 
-## Software Engineer | App Manager
+# Cristian A. Garrido
+## Solutions Architect & IIoT Entrepreneur | Data Science & Full Stack Specialist | 15+ Yrs Tech Strategy
 
 Experienced in building and managing mobile applications for Android and iOS, with expertise in cross-platform development. Background in backend development, designing scalable and efficient systems that support seamless mobile experiences. Skilled in App Management, including publishing, maintaining, and optimizing apps on the Google Play Store and App Store, with knowledge of ASO (App Store Optimization) to enhance visibility and user acquisition. Passionate about optimizing performance, integrating APIs, and delivering high-quality software solutions. 
 
