@@ -7,16 +7,17 @@ Mi mayor fortaleza es la **integración nativa de sistemas electrónicos con eco
 
 ---
 
-## 🛠️ Skills & Experience
-⚡ **Architect & Tech Strategy:** Más de 15 años diseñando infraestructura crítica, sistemas transaccionales y pasarelas financieras.
-🌐 **Full-Stack Senior:** Especialista en el ecosistema Laravel + Vue.js para el despliegue de plataformas de alta concurrencia.
-📡 **IIoT & Telemetry:** Diseño de hardware, automatización industrial, redes LoRaWAN, BLE y Radiofrecuencia (RF).
-🔒 **APIs & Security:** Construcción de servicios RESTful robustos con autenticación JWT y documentación bajo estándar Swagger.
-🔋 **Energy & Industrial Automation:** Integración de sistemas de electricidad industrial y monitoreo de paneles solares.
+## Skills & Experience
+
+* ⚡ **Architect & Tech Strategy:** Más de 15 años diseñando infraestructura crítica, sistemas transaccionales y pasarelas financieras.
+* 🌐 **Full-Stack Senior:** Especialista en el ecosistema Laravel + Vue.js para el despliegue de plataformas de alta concurrencia.
+* 📡 **IIoT & Telemetry:** Diseño de hardware, automatización industrial, redes LoRaWAN, BLE y Radiofrecuencia (RF).
+* 🔒 **APIs & Security:** Construcción de servicios RESTful robustos con autenticación JWT y documentación bajo estándar Swagger.
+* 🔋 **Energy & Industrial Automation:** Integración de sistemas de electricidad industrial y monitoreo de paneles solares.
 
 ---
 
-## 🧰 Tech Stack & Ecosistema
+## Tech Stack & Ecosistema
 
 <table>
   <tr>
@@ -54,14 +55,15 @@ Mi mayor fortaleza es la **integración nativa de sistemas electrónicos con eco
     </td>
   </tr>
 </table>
+---
+
+![API Gateway](https://img.shields.io/badge/API_GATEWAY-ONLINE-2ecc71?style=for-the-badge&logo=nginx&logoColor=white&labelColor=101010)
+![MQTT Broker](https://img.shields.io/badge/MQTT_BROKER-CONNECTED-2ecc71?style=for-the-badge&logo=hivemq&logoColor=white&labelColor=101010)
+![Docker Containers](https://img.shields.io/badge/DOCKER_ENGINES-RUNNING-1f425f?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)
 
 ---
 
-## 📊 GitHub Status
-<!-- Reemplaza "TU_USUARIO_AQUÍ" con tu nombre de usuario real de GitHub para activar el gráfico -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cga7-o-8a3021219&hide_progress=true&show_icons=true&theme=radical&hide=HTML,CSS,Blade&langs_count=6"/>
-
----
-
-## 📬 Contacto & Conectividad:
+## Contacto & Conectividad:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Garrido-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cga7-o-8a3021219/)
+[![Website](https://img.shields.io/badge/Corporate_Web-Engix.cl-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://engix.cl)
+[![Live Demo](https://img.shields.io/badge/IIoT_Platform-Live_Demo-FF5722?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=101010)](https://iot.engix.cl/demo)
