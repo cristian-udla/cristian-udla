@@ -59,7 +59,7 @@ Mi mayor fortaleza es la **integración nativa de sistemas electrónicos con eco
 
 ## 📊 GitHub Status
 <!-- Reemplaza "TU_USUARIO_AQUÍ" con tu nombre de usuario real de GitHub para activar el gráfico -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-udla&hide_progress=true&show_icons=true&theme=radical&hide=HTML,CSS,Blade&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cga7-o-8a3021219&hide_progress=true&show_icons=true&theme=radical&hide=HTML,CSS,Blade&langs_count=6"/>
 
 ---
 
