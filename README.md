@@ -59,9 +59,9 @@ Mi mayor fortaleza es la **integración nativa de sistemas electrónicos con eco
 
 ## 📊 GitHub Status
 <!-- Reemplaza "TU_USUARIO_AQUÍ" con tu nombre de usuario real de GitHub para activar el gráfico -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&hide_progress=true&show_icons=true&theme=radical&hide=HTML,CSS,Blade&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-udla&hide_progress=true&show_icons=true&theme=radical&hide=HTML,CSS,Blade&langs_count=6"/>
 
 ---
 
 ## 📬 Contacto & Conectividad:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Garrido-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/TU_LINKEDIN_AQUÍ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cristian_Garrido-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/cga7-o-8a3021219/)
